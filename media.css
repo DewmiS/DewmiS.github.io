@@ -24,8 +24,8 @@
     margin: 0 5%;
   }
   .section-pic{
-    width: 275px;
-    height: 275px;
+    width: 100px;
+    height: 100px;
     margin: 0 auto 2rem;
   }
   .about-containers {
@@ -39,7 +39,9 @@
     height: 40vh;
   }
   #profile {
-    height: 83vh;
+    padding-left: 100px;
+    height: 500px;
+    width: 350px;
     margin-bottom: 0;
   }
   article {
