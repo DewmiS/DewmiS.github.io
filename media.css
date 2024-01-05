@@ -39,9 +39,9 @@
     height: 40vh;
   }
   #profile {
-    height: 83vh;
-    width: 40vh;
-    margin-bottom: 0;
+    height: 46vh;
+   /* width: 46vh;*/
+    margin-bottom: -1000px;
   }
   article {
     font-size: 1rem;
